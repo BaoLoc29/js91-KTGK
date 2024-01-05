@@ -1,0 +1,11 @@
+.mainCalc{
+    width: 250px;
+    height: 320px;
+    background-color: white;
+}
+input{
+    padding: 20px;
+}
+button{
+    padding: 10px 20px;
+}
